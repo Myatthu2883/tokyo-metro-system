@@ -1,6 +1,6 @@
 # 🚇 Tokyo Metro Railway Management System
 
-**University Project — Team Shinkansen**  
+**University Project**  
 Referenced from: [https://www.tokyometro.jp/en/index.html](https://www.tokyometro.jp/en/index.html)
 
 ---
@@ -185,6 +185,6 @@ The database `tokyo_metro_db` contains 7 tables:
 
 ## 👥 Team Shinkansen
 
-University Database Systems Project — 2026
+University Project — 2026
 
 **Reference Website:** [https://www.tokyometro.jp/en/index.html](https://www.tokyometro.jp/en/index.html)
