@@ -1,7 +1,6 @@
 # 🚇 Tokyo Metro Railway Management System
 
 **University Project**  
-Referenced from: [https://www.tokyometro.jp/en/index.html](https://www.tokyometro.jp/en/index.html)
 
 ---
 
